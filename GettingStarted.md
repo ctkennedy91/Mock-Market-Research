@@ -1,0 +1,15 @@
+# Getting Started with Gemini 💻
+
+I had a basic understanding of what I wanted to do thanks to the guided practice I did on Coursera. Just for my own peace of mind, I still prompted:
+  > Hello. I'm doing some practice for my product manager homework. Can you help me with some mock market research?
+
+After I was reassured that helping with market reasearch was indeed a possibility with more context, I informed Gemini that I wanted to focus on apples because it is something that I'm comfortable with.
+
+Gemini immediately set up a scenario:
+
+## Mock Market Research Scenario: The Premium Apple Consumer 🍎
+- **Product:** A new, premium, pre-selected Apple Discovery Box subscription. This box is delivered monthly, featuring 3-4 unique, often heirloom or specialty, apple varieties sourced directly from local, high-end orchards, along with tasting notes and suggested pairings (e.g., cheese, cider, spices).
+
+- **Target Market:** Affluent Millennial and Gen Z households (ages 25-45) in a major metropolitan area who self-identify as "foodies," shop at upscale or organic grocery stores (like Whole Foods or local farmers' markets), and are willing to pay a premium for quality, novelty, and convenience. 
+
+- **Market Research Goal:** Gauge consumer interest, willingness-to-pay (WTP), and identify the key value proposition for this premium apple subscription service to inform pricing and marketing strategy.
