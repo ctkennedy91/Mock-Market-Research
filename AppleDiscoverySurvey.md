@@ -31,7 +31,7 @@
 
 ___
 
-## Section 2: Jobes-to-be-Done (JTBD)
+## Section 2: Jobs-to-be-Done (JTBD)
 
 ### Q4: When you buy apples, what is the *primary* "job" or purpose you have in mind for them? (Select one)
 - [ ] **Healthy Snack/Lunchbox Staple:** Daily consumption for health or convenience.
